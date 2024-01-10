@@ -131,8 +131,8 @@
 }
 
 .light-section .sub-header::after {
-  background-color: var(--light-section-sub-header-border-color);
-}
+  background-color: rgb(255, 77, 0);
+}s
 
 .light-section .btn-primary {
   border: 2px solid var(--light-section-primary-button) !important;
@@ -250,7 +250,7 @@
 
 .primary-overlay .sub-header::after,
 .primary-overlay .sub-header-center::after {
-  background-color: var(--primary-overlay-sub-header-border-color);
+  background-color: rgb(255, 77, 0);
 }
 
 .primary-overlay .btn-primary {
